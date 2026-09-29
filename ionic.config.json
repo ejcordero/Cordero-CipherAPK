@@ -1,0 +1,7 @@
+{
+  "name": "Cordero-CipherApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
